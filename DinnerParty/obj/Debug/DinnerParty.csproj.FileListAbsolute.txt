@@ -1,0 +1,9 @@
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\bin\Debug\DinnerParty.pdb
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Form1.resources
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.GenerateResource.Cache
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.CoreCompileInputs.cache
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+D:\z_tp\C_sharp\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb
