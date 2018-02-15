@@ -45,7 +45,7 @@ namespace DinnerParty
 
         private void fancyCheckBox_CheckedChanged(object sender, EventArgs e)
         {
-            dinnerParty.FancyDecoration = fancyCheckBox.Checked;
+            dinnerParty.FancyDecorations = fancyCheckBox.Checked;
             DisplayDinnerPartyCost();
         }
 
